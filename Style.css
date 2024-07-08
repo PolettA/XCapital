@@ -1,0 +1,234 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+    height: 100%;
+    background-image:url(Img/Vector.png);
+    background-repeat: no-repeat;
+    background-position: right -10%;
+    background-size: 55.9%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+/* INICIO HEADER*/
+.header{
+    
+    width: 80%;
+    height: 2em;
+    
+}
+.Nav{
+    width: 80%;
+    height: 20%;
+    
+}
+
+.Group1{
+    position: absolute;
+    display: flex;
+    align-items: center;
+    right: 300px;
+    top:45px;
+   
+}
+.Button{
+    position: absolute;
+    right: 100px;
+}
+
+/* INICIO HERO*/
+.Hero{
+  
+    width: 80%;
+    height: 600px;
+  
+    display: flex;
+    align-items: center;
+    
+    
+}
+.Title{
+    
+    width: 40%;
+    height: 450PX;
+    
+}
+.Text{
+    width: 400px;
+    
+}
+
+.Img{
+    
+    width: 90%;
+    height: 550PX;
+    
+   
+}
+.Group21{
+    position: absolute;
+    width: 600px;
+    
+}
+
+
+/* INICIO OBJECTIVES*/
+.Objectives{
+    position: relative;
+    width: 100%;
+    height: 500px;
+  
+    background: rgba(240, 240, 240, 0.5);
+
+}
+.Title2{
+    position: absolute;
+    width: 40%;
+    left: 400px;
+    top:45px;
+  
+}
+.Text1{
+   width: 450px;
+    
+}
+
+.P{
+    position: relative;
+    width: 50%;
+    left: 330px;
+    top: 20%;
+    
+}
+.Text2{
+    width: 600px;
+     
+ }
+ .Group18{
+    position: absolute;
+    width: 80%;
+    height: 250px;
+    top:40%;
+    right: 100px;
+    
+ }
+
+.Group14{
+    width: 30%;
+    left: 330px;
+    top: 20%;
+    height: 250px;
+    background: rgba(236, 236, 236, 0.5);
+
+
+}
+.Text3{
+    position:absolute;
+    
+     width: 100px;
+    top:70%;
+    left: 100px;
+     
+ }
+ .Text4{
+    position:absolute;
+    
+     width: 200px;
+    top:80%;
+    left: 50px;
+     
+ }
+.Group16{
+    position: absolute;
+    width: 32%;
+    left: 330px;
+    top: 0%;
+    height: 250px;
+    background: rgba(236, 236, 236, 0.5);
+
+
+}
+
+.shopping8{
+    position: absolute;
+    
+    left: 80px;
+    top: 0%;
+  
+}
+.Text5{
+    position: absolute;
+     width: 100px;
+     right: 440px;
+    top:70%;
+    
+     
+ }
+ .Text6{
+    position:absolute;
+    right:390px;
+     width: 200px;
+    top:80%;
+    
+     
+ }
+.Group17{
+    position: absolute;
+    width: 30%;
+    left: 680px;
+    top: 0%;
+    height: 250px;
+    background: rgba(236, 236, 236, 0.5);
+
+
+}
+.shopping9{
+    position: absolute;
+    
+    left: 70px;
+    top: 0%;
+  
+}
+
+.Text7{
+    position: absolute;
+     width: 100px;
+     right: 100px;
+    top:70%;
+    
+     
+ }
+ .Text8{
+    position:absolute;
+    right:50px;
+     width: 200px;
+    top:80%;
+ }
+
+/* INICIO STEPS*/
+.Steps{
+    position: absolute;
+    width: 80%;
+    height: 600px;
+    top:200%;
+   
+}
+.Group35{
+    
+    width: 60%;
+    height: 600px; 
+   
+
+}
+.Group61{
+    width: 550px;
+}
+.Text9{
+    position: absolute;
+    width: 400px;
+    top:5%
+}
